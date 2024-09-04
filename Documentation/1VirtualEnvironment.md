@@ -10,4 +10,4 @@
     * Ctrl + Shift + p --> Opne Command Pallet --> Python:Select Interpreter --> Edit Interpreter Path --> Add this path .\folderName\Scripts\python.exe
     * Now we use python from virtual environment
     * *We need to make sure that terminal also uses python from virtual environment*
-    * Execute ---> folderName\Scripts\activate.bat  ---> Virtual Environment for Terminal
+    * Open CMD --> Execute ---> folderName\Scripts\activate.bat  ---> Virtual Environment for Terminal
